@@ -41184,20 +41184,20 @@
     "has_news": true
   },
   {
-    "title": "Journal 3",
-    "img_url": "https://imgs.xkcd.com/comics/journal_3.png",
-    "num": 405,
-    "date_published": "2008-04-02T04:00:00.000Z",
-    "url": "https://xkcd.com/405",
-    "alt": "Oh, and, uh, if the Russian government asks, that submarine was always there.",
-    "explain_xkcd_url": "http://www.explainxkcd.com/405",
-    "transcript": "[[Two women ice-skating outside]]\nBlonde: Wait up!\nBrunette (wearing Hat Guy's Hat): Skate faster!\n[[Brunette sees cracking ice]] \n<<Crack>> <<Crack>>\n[[Brunette on chunk of ice broken off]] \n<<Crack>> <<Rumble>>\n[[Submarine dorsal fin emerging]]\n<<Awooga>>\n[[Hat Guy (minus hat) coming out of door]]\nHat Guy: Hi.  \nHat Guy: That's my hat you're wearing.\nBrunette (wearing Hat Guy's Hat):  So, you found me after all.\nHat Guy (out of frame): You didn't make it easy.\nHat Guy: You saw through me, all right.  But not quite well enough.\nHat Guy: Because if you wanted to stay lost forever, you made one mistake\n[[Hat Guy sliding down a sheet of ice]]\nHat Guy: You took my hat.\n[[Hat Guy swipes hat off of Brunette]]\n[[Hat Guy puts it on his head while sliding]]\nHat Guy: You took my hat.\nHat Guy: I LIKE my hat.\n[[Hat guy walking away]]\n[[Brunette left standing there]]\n{{title text: Oh, and, uh, if the Russian government asks, that submarine was always there.}}",
+    "title": "Not Found",
+    "img_url": "",
+    "num": 404,
+    "date_published": "2008-04-01T04:00:00.000Z",
+    "url": "https://xkcd.com/404",
+    "alt": "As an April Fools Joke, this xkcd appears as an actual HTTP 404 error",
+    "explain_xkcd_url": "http://www.explainxkcd.com/404",
+    "transcript": "",
     "link": "",
-    "news": "XKCD updates every Monday, Wednesday, and Friday.<br />Previously: <a href=\"https://xkcd.com/374/\">Journal</a> and <a href=\"https://xkcd.com/377\">Journal 2</a>",
-    "safe_title": "Journal 3",
+    "news": "",
+    "safe_title": "Not Found",
     "has_unique_safe_title": false,
     "has_link": false,
-    "has_news": true
+    "has_news": false
   },
   {
     "title": "Convincing Pickup Line",
